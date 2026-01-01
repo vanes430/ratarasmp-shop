@@ -16,4 +16,4 @@ Edit `config.yml` to change:
 3. Deploy! (No build command needed, it is a static site).
 
 ## Images
-Place your images in the `public` folder and reference them in `config.yml`.
+Place your images in the `assets` folder and reference them in `config.yml`.

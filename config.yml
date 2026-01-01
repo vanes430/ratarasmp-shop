@@ -1,6 +1,6 @@
 site:
   title: "ʀᴀᴛᴀʀᴀꜱᴍᴘ ꜱᴛᴏʀᴇ"
-  icon: "public/item1.svg"
+  icon: "assets/item1.svg"
 
 shop:
   title: "ʀᴀᴛᴀʀᴀꜱᴍᴘ ꜱᴛᴏʀᴇ"
@@ -21,7 +21,7 @@ products:
       [+] Kit Rank Voltra
       [+] Sethome 20
       [+] Vault 5
-    image: "public/item1.svg"
+    image: "assets/item1.svg"
   
   - name: "Rank NOVA"
     price: "Rp 35.000"
@@ -32,7 +32,7 @@ products:
       [+] Kit Rank Nova
       [+] Sethome 15
       [+] Vault 4
-    image: "public/item2.svg"
+    image: "assets/item2.svg"
   
   - name: "Rank MASTER"
     price: "Rp 20.000"
@@ -43,7 +43,7 @@ products:
       [+] Kit Rank Master
       [+] Sethome 10
       [+] Vault 3
-    image: "public/item3.svg"
+    image: "assets/item3.svg"
 
   - name: "Rank HERO"
     price: "Rp 10.000"
@@ -54,7 +54,7 @@ products:
       [+] Kit Rank Hero
       [+] Sethome 5
       [+] Vault 2
-    image: "public/item4.svg"
+    image: "assets/item4.svg"
 
   - name: "Shards"
     price: "Rp 2.000+"
@@ -67,7 +67,7 @@ products:
       6000 Shards: Rp.12000
       7000 Shards: Rp.14000
       8000 Shards: Rp.16000
-    image: "public/item1.svg"
+    image: "assets/item1.svg"
 
   - name: "Armor"
     price: "Rp 20.000+"
@@ -78,7 +78,7 @@ products:
       Arcane Set: Rp 20.000
       Sword Demonic: Rp.35.000
       Sword Arcane: Rp.25.000
-    image: "public/item2.svg"
+    image: "assets/item2.svg"
 
 infos:
   - title: "Aturan Pembelian"
