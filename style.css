@@ -136,6 +136,23 @@ header p {
     }
 }
 
+/* Mobile Header Adjustment */
+@media (max-width: 600px) {
+    header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 20px;
+    }
+    
+    .theme-btn {
+        position: static;
+        align-self: flex-end;
+        margin-bottom: 15px;
+        margin-right: 10px; /* Slight offset from edge */
+    }
+}
+
 /* Card Style */
 .card, .info-card {
     background: var(--card-bg);
